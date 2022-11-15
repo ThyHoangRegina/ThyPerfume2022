@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ThyPerfume2022/static/css/main.a8ae5fa8.css",
-    "main.js": "/ThyPerfume2022/static/js/main.b0b36645.js",
+    "main.js": "/ThyPerfume2022/static/js/main.f49d664d.js",
     "static/js/787.a14c7e0e.chunk.js": "/ThyPerfume2022/static/js/787.a14c7e0e.chunk.js",
     "static/media/tamdao.png": "/ThyPerfume2022/static/media/tamdao.037030324668b3a19514.png",
     "static/media/diptyque.png": "/ThyPerfume2022/static/media/diptyque.c9f564d71b1cfa057b1c.png",
@@ -25,11 +25,11 @@
     "static/media/slick.woff": "/ThyPerfume2022/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ThyPerfume2022/index.html",
     "main.a8ae5fa8.css.map": "/ThyPerfume2022/static/css/main.a8ae5fa8.css.map",
-    "main.b0b36645.js.map": "/ThyPerfume2022/static/js/main.b0b36645.js.map",
+    "main.f49d664d.js.map": "/ThyPerfume2022/static/js/main.f49d664d.js.map",
     "787.a14c7e0e.chunk.js.map": "/ThyPerfume2022/static/js/787.a14c7e0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8ae5fa8.css",
-    "static/js/main.b0b36645.js"
+    "static/js/main.f49d664d.js"
   ]
 }
