@@ -1,0 +1,31 @@
+.nav{
+    display: flex;
+    padding-inline: auto;
+    padding: 1rem;
+    align-items: baseline;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: transparent;
+    z-index: 999;
+    color: var(--peach);
+}
+.nav--title{
+    font-family: Pacifico;
+    flex-grow: 4;
+    font-size: 1.5rem;
+}
+.nav--icon{
+    flex-grow: 1;
+    font-size: 2rem;
+    position: relative;
+}
+.nav--icon--cart{
+    font-size: 2rem;
+}
+.link{
+    text-decoration: none;
+    font-family: Pacifico;
+    font-size: 1.5rem;
+    color: var(--peach);
+}

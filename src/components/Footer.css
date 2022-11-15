@@ -1,0 +1,14 @@
+.footer{
+    height: 10vh;
+    background-color: var(--darkpeach);
+    color: var(--lightgrey);
+    padding: 0.5rem;
+    
+}
+
+.footer>h{
+    font-size: 14px;
+}
+.footer>p{
+    font-size: 14px;
+}
