@@ -12,7 +12,7 @@ function App() {
       <Routes>
         <Route path="/ThyPerfume2022/" element={<Layout/>}>
           <Route index element={<Home/>} />
-          <Route path="ThyPerfume2022/cart" element={<Cart/>} />
+          <Route path="/ThyPerfume2022/cart" element={<Cart/>} />
         </Route>
       </Routes>
     </BrowserRouter>
