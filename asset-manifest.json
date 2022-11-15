@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ThyPerfume2022/static/css/main.a8ae5fa8.css",
+    "main.js": "/ThyPerfume2022/static/js/main.e00e3169.js",
+    "static/js/787.a14c7e0e.chunk.js": "/ThyPerfume2022/static/js/787.a14c7e0e.chunk.js",
+    "static/media/tamdao.png": "/ThyPerfume2022/static/media/tamdao.037030324668b3a19514.png",
+    "static/media/diptyque.png": "/ThyPerfume2022/static/media/diptyque.c9f564d71b1cfa057b1c.png",
+    "static/media/ysllibre.png": "/ThyPerfume2022/static/media/ysllibre.a665b86b7221b2616152.png",
+    "static/media/byredohome.jpg": "/ThyPerfume2022/static/media/byredohome.5c32f4c6a75dde3f31ca.jpg",
+    "static/media/Pacifico-Regular.ttf": "/ThyPerfume2022/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "static/media/autumn-vibes.jpg": "/ThyPerfume2022/static/media/autumn-vibes.7943690a66d18dd52cf8.jpg",
+    "static/media/nest-wild-poppy.jpg": "/ThyPerfume2022/static/media/nest-wild-poppy.758f990ee76fe3be9f9f.jpg",
+    "static/media/thenoir.jpg": "/ThyPerfume2022/static/media/thenoir.b34d7ac17269b941c88c.jpg",
+    "static/media/discoverset.jpg": "/ThyPerfume2022/static/media/discoverset.a114341cccb9008b6cc6.jpg",
+    "static/media/byredo-flowerhead.jpg": "/ThyPerfume2022/static/media/byredo-flowerhead.0328cf9863465209d0c4.jpg",
+    "static/media/gucci-memoire.jpg": "/ThyPerfume2022/static/media/gucci-memoire.d9680ef097c67e0cfd3d.jpg",
+    "static/media/nestindigo.jpg": "/ThyPerfume2022/static/media/nestindigo.8119fbae82ff8f87d699.jpg",
+    "static/media/byredo-sundazed.jpg": "/ThyPerfume2022/static/media/byredo-sundazed.368ed9c5df305421b317.jpg",
+    "static/media/killian-roses-on-ice.jpg": "/ThyPerfume2022/static/media/killian-roses-on-ice.d2fa8fd72f8c1a8cba5f.jpg",
+    "static/media/vilbasil.jpg": "/ThyPerfume2022/static/media/vilbasil.f55e54ebf09a528c5f57.jpg",
+    "static/media/byredo-youngrose.jpg": "/ThyPerfume2022/static/media/byredo-youngrose.5ddaeeffb126150b7f4b.jpg",
+    "static/media/slick.svg": "/ThyPerfume2022/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ThyPerfume2022/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ThyPerfume2022/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ThyPerfume2022/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ThyPerfume2022/index.html",
+    "main.a8ae5fa8.css.map": "/ThyPerfume2022/static/css/main.a8ae5fa8.css.map",
+    "main.e00e3169.js.map": "/ThyPerfume2022/static/js/main.e00e3169.js.map",
+    "787.a14c7e0e.chunk.js.map": "/ThyPerfume2022/static/js/787.a14c7e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8ae5fa8.css",
+    "static/js/main.e00e3169.js"
+  ]
+}
