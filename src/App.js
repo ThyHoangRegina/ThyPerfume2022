@@ -3,19 +3,19 @@ import Cart from './components/Cart';
 import Home from './components/Home.js';
 import Layout from './components/Layout.js';
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
       <Routes>
-        <Route path="/ThyPerfume2022/" element={<Layout/>}>
+        <Route path="/" element={<Layout/>}>
           <Route index element={<Home/>} />
-          <Route path="/ThyPerfume2022/cart" element={<Cart/>} />
+          <Route path="cart" element={<Cart/>} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
     </div>
   );
 }
